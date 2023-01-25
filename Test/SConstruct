@@ -1,0 +1,8 @@
+# age calc.py
+
+import datetime
+
+birthdate = datetime.date(1996, 11, 7)
+today = datetime.date.today()
+age_in_days = (today - birthdate).days
+print("You are", age_in_days, "days old.")

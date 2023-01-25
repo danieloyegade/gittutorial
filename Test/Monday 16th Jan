@@ -1,0 +1,19 @@
+# my_list = ["milk", "bread", "eggs"]
+# print(my_list)
+
+# for i in my_list:
+#     print(i)
+
+# for i in range(10):
+#     print(i)
+
+# for i in range(0,10,2):
+#     print(i)
+
+# num = 445
+# while num < 450:
+#     num = num + 1
+#     print(num)
+
+
+
